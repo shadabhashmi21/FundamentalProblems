@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 /**
- * Program to check if a String is Palindrome or not using reverse() method.
+ * A Java based Program to check if a String is Palindrome or not using reverse() method.
  * @author Shadab 
  */
 public class PalindromeUsingReverse {

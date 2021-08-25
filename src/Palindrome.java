@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Program to check if a String is Palindrome or not.
+ * A Java based Program to check if a String is Palindrome or not.
  * @author shadab
  */
 public class Palindrome {
