@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 /**
- * A Java based to remove a substring from a entered string
+ * A Java based program to remove a substring from a entered string.
  * @author shadab
  */
 public class RemoveSubstring {
