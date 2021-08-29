@@ -1,16 +1,19 @@
+package Strings;
 
 import java.util.Scanner;
 
 /**
- *
+ * A Java based program to permute string.
  * @author shadab
  */
 public class Permutation {
     public static void main(String[] args) {
+        System.out.println("PERMUTATION");
+        
         Scanner ob = new Scanner(System.in);
         System.out.println("Enter the String to be permuted");
         String word = ob.nextLine();
-        System.out.println("The permutated strings are : ");
+        System.out.println("The permuted strings are : ");
         permutation("", word);
     }
     
