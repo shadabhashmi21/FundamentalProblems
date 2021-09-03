@@ -7,9 +7,9 @@ import java.util.Scanner;
  * A Java based program to swap two numbers without using a third variable.
  * @author shadab
  */
-public class SwapTwoNumbers {
+public class SwapNumbers {
     public static void main(String[] args) {
-        System.out.println("SWAP TWO NUMBERS");
+        System.out.println("SWAP NUMBERS");
         
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter two numbers");
