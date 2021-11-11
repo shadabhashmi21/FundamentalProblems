@@ -19,7 +19,7 @@ public class Permutation {
     
     static void permutation(String perm, String word) {
         if(word.isEmpty()) {
-            System.out.println(perm + word);
+            System.out.print(perm + word + " ");
         }
         else {
             for (int i = 0; i < word.length(); i++) {
